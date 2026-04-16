@@ -1,25 +1,25 @@
-# Estevan Reyez Website
+# Sitio Web de Estevan Reyez
 
-Static artist website for Colombian latin urban pop and reggaeton recording artist Estevan Reyez.
+Sitio web estático para Estevan Reyez, artista colombiano de latin urban pop y reggaeton.
 
-## Files
+## Archivos
 
-- `index.html` - page content
-- `styles.css` - responsive visual design
-- `script.js` - mobile navigation and scroll reveal behavior
-- `assets/images/` - artist photos
+- `index.html` - contenido de la página
+- `styles.css` - diseño visual responsive
+- `script.js` - navegación móvil y animaciones al hacer scroll
+- `assets/images/` - fotos del artista
 
 ## GitHub Pages
 
-1. Push this folder to a GitHub repository.
-2. Open the repository settings.
-3. Go to Pages.
-4. Choose the main branch and root folder.
-5. Save, then open the GitHub Pages URL after it finishes deploying.
+1. Sube esta carpeta a un repositorio de GitHub.
+2. Abre la configuración del repositorio.
+3. Entra a Pages.
+4. Elige la rama main y la carpeta root.
+5. Guarda los cambios y abre el enlace de GitHub Pages cuando termine de publicarse.
 
-## Customize
+## Personalizar
 
-Update the booking email in `index.html`:
+Actualiza el correo de contrataciones en `index.html`:
 
 ```html
 booking@estevanreyez.com
